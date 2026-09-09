@@ -9,7 +9,7 @@ import cloudyNightImg from './assets/cloudy-night.svg'
 function App() {
   const weatherForecasts = [
     {
-      day: 'MONDAY',
+      day: 'MONDAY11111111',
       img: dayImg,
       imgAlt: 'sun icon',
       conditions: 'sunny',
